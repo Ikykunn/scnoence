@@ -31,10 +31,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/ikykunnnn'
-global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/BiHY7oEBhQo1CsDeZgQ5dA' //group whatsapp
+global.sgh = 'https://github.com/rizkiwibu' //github
+global.sgc = 'https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/c/DenaraBot' // my youtube channel
+global.snh = 'https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '083817161861' //dana
@@ -46,7 +46,7 @@ global.ppulsa2 = '083817161861' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285727492435'
+global.nomorbot = '6285878836361'
 global.nomorown = '083817161861'
 global.namebot = 'ikybotsewa'
 global.nameown = 'rizki'
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'DENARA-BOT-V1'
-global.stickauth = `By ©DENARA BOT`
+global.stickpack = 'iky-BOT-V1'
+global.stickauth = `By ©iky BOT`
 
 global.multiplier = 38 // The higher, The harder levelup
 

@@ -105,7 +105,7 @@ if (!opts['test']) {
     } catch (e) { console.error(e) }
   }, 60 * 1000)
 }
-if (opts['server']) (await import('./server.js')).default(global.conn, PORT)
+if (opts['server']) (await import('./server.js')).default(PORT)
 
 
 function clearTmp() {

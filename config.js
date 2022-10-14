@@ -47,7 +47,7 @@ global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285878836361'
-global.nomorown = '083817161861'
+global.nomorown = '6283817161861'
 global.namebot = 'ikybotsewa'
 global.nameown = 'rizki'
 
@@ -58,7 +58,7 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['083817161861', 'ikykunnnn', true],
+  ['6283817161861', 'ikykunnnn', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
